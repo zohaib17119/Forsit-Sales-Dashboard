@@ -1,4 +1,4 @@
-# Project Name
+# Project Name - Update
 
 Project Description: A React-based Admin Dashboard with interactive charts for sales and revenue, and a feature-rich inventory management system.
 
