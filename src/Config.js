@@ -1,7 +1,7 @@
 import { initializeApp } from 'firebase/app';
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyCQbUjVmkcgQHkgmnDxpP-QBLj_gKJihq4",
+  // api    lklk ===Key: "AIzaSyCQbUjVmkcgQH ===== remove ==== kgmnDxpP-QBLj_gKJihq4",
   authDomain: "latest-upload-f9b40.firebaseapp.com",
   projectId: "latest-upload-f9b40",
   storageBucket: "latest-upload-f9b40.appspot.com",
